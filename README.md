@@ -1,6 +1,6 @@
 <img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
 
-# 9th meetup R-Ladies Montpellier: "Lightning Talks: This year I learned ... and it changed my life! R-edition"
+# 8th meetup R-Ladies Montpellier: "Lightning Talks: This year I learned ... and it changed my life! R-edition"
 
 - In collaboration with R-Ladies Freiburg we participated in our first online meetup. 
 - The list of participants and their presentation are availables in this [Link](https://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit#gid=0).
